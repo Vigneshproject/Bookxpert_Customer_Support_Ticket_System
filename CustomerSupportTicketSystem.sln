@@ -6,6 +6,11 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystemAPI", "TicketSystemAPI\TicketSystemAPI.csproj", "{17ADF993-8023-4559-A90E-9ACD086AD26F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataScript", "DataScript", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		01_DataScript.sql = 01_DataScript.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystemWinForms", "TicketSystemWinForms\TicketSystemWinForms.csproj", "{A8BB3B40-EED5-4876-9BAB-0BE7265F9AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +22,10 @@ Global
 		{17ADF993-8023-4559-A90E-9ACD086AD26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17ADF993-8023-4559-A90E-9ACD086AD26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17ADF993-8023-4559-A90E-9ACD086AD26F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BB3B40-EED5-4876-9BAB-0BE7265F9AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BB3B40-EED5-4876-9BAB-0BE7265F9AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BB3B40-EED5-4876-9BAB-0BE7265F9AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BB3B40-EED5-4876-9BAB-0BE7265F9AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
