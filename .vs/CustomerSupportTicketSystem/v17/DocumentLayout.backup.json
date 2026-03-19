@@ -1,12 +1,196 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\createticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\createticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\dbcontext\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\dbcontext\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\ticketsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\ticketsystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTicketModel.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\CreateTicketModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\CreateTicketModel.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\CreateTicketModel.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\CreateTicketModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:11:13.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:10:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:09:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:08:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Program.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:05:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\DbContext\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\DbContext\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\DbContext\\TicketDbContext.cs",
+              "RelativeToolTip": "TicketSystemAPI\\DbContext\\TicketDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:05:19.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketSystemAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\TicketSystemAPI.csproj",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\TicketSystemAPI.csproj",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\TicketSystemAPI.csproj",
+              "RelativeToolTip": "TicketSystemAPI\\TicketSystemAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T16:02:38.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketHistory.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketHistory.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\TicketHistory.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketHistory.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\TicketHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:53:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketComment.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketComment.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\TicketComment.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketComment.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\TicketComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:53:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:52:02.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\User.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:51:00.858Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
