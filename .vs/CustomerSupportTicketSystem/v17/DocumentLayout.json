@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\tickethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\ticketcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADF993-8023-4559-A90E-9ACD086AD26F}|TicketSystemAPI\\TicketSystemAPI.csproj|solutionrelative:ticketsystemapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375D20EC-3202-444B-B0D5-759FBBFDC957}|TicketSystemWinForms\\TicketSystemWinForms.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375D20EC-3202-444B-B0D5-759FBBFDC957}|TicketSystemWinForms\\TicketSystemWinForms.csproj|solutionrelative:ticketsystemwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375D20EC-3202-444B-B0D5-759FBBFDC957}|TicketSystemWinForms\\TicketSystemWinForms.csproj|c:\\users\\vignesh.saravanan\\source\\customersupportticketsystem\\ticketsystemwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375D20EC-3202-444B-B0D5-759FBBFDC957}|TicketSystemWinForms\\TicketSystemWinForms.csproj|solutionrelative:ticketsystemwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketHistory.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketHistory.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\TicketHistory.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketHistory.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\TicketHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:53:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketComment.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketComment.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\TicketComment.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\TicketComment.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\TicketComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:53:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:52:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TicketSystemAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemAPI\\Models\\User.cs",
+              "RelativeToolTip": "TicketSystemAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:51:00.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "TicketSystemWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemWinForms\\Program.cs",
+              "RelativeToolTip": "TicketSystemWinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:47:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TicketSystemWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\vignesh.saravanan\\source\\CustomerSupportTicketSystem\\TicketSystemWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "TicketSystemWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T02:47:19.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
