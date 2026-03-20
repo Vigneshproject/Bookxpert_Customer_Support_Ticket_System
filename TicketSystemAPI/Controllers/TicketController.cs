@@ -14,8 +14,7 @@ public class TicketController : ControllerBase
     {
         _context = context;
     }
-
-    // ✅ Create Ticket
+    
     [HttpPost("create")]
     public IActionResult CreateTicket(CreateTicketModel model)
     {
@@ -43,8 +42,7 @@ public class TicketController : ControllerBase
 
         return Ok(ticket);
     }
-
-    // ✅ Ticket List
+   
     [HttpGet("list/{userId}/{role}")]
     public IActionResult GetTickets(int userId, string role)
     {
@@ -61,8 +59,7 @@ public class TicketController : ControllerBase
             );
         }
     }
-
-    // ✅ Assign Ticket
+  
     [HttpPost("assign")]
     public IActionResult Assign(AssignModel model)
     {
@@ -75,8 +72,7 @@ public class TicketController : ControllerBase
 
         return Ok();
     }
-
-    // ✅ Change Status
+   
     [HttpPost("status")]
     public IActionResult ChangeStatus(StatusModel model)
     {
@@ -102,8 +98,7 @@ public class TicketController : ControllerBase
 
         return Ok();
     }
-
-    // ✅ Comment
+  
     [HttpPost("comment")]
     public IActionResult Comment(CommentModel model)
     {
